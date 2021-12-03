@@ -14,7 +14,7 @@ let months = [
   "September",
   "October",
   "November",
-  "December",
+  "December"
 ];
 let hour = now.getHours();
 let minute = now.getMinutes();

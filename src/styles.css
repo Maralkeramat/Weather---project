@@ -106,9 +106,14 @@ h5 {
   font-weight: 400px;
 }
 .col-tehran {
-  color: blue;
+  color: #235784;
 }
 h6 {
   font-size: 14px;
   color: black;
+}
+.centered {
+  text-align: center;
+  color: blueviolet;
+
 }
